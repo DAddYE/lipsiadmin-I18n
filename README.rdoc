@@ -1,0 +1,18 @@
+==Lipsiadmin Locale Data Repository
+
+Central point to collect locale data for use in Lipsiadmin.
+
+To contribute just send me a pull request, patch or plain text file.
+
+Please include a comment with the language/locale name and your name and email address (or other contact information like your github profile) to the locale file so people can come contact you and ask questions etc.
+
+Also, please pay attention to save your files as UTF-8.
+
+WebSite:: http://www.lipsiadmin.com
+Api Documentation:: http://api.lipsiadmin.com
+Community:: http://groups.google.com/group/lipsiadmin
+Twitter:: http://twitter.com/daddye
+
+==Contributors
+
+German:: Peter[marx.tholey@online.de]
