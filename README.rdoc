@@ -15,4 +15,4 @@ Twitter:: http://twitter.com/daddye
 
 ==Contributors
 
-German:: Peter[marx.tholey@online.de]
+German:: Peter[mailto:marx.tholey@online.de]
