@@ -13,6 +13,8 @@ Api Documentation:: http://api.lipsiadmin.com
 Community:: http://groups.google.com/group/lipsiadmin
 Twitter:: http://twitter.com/daddye
 
-==Contributors
+==Contributors and Mantainers
 
 German:: Peter[mailto:marx.tholey@online.de]
+Italian:: DAddYE[mailto:d.dagostino@lipsiasoft.com]
+English:: DAddYE[mailto:d.dagostino@lipsiasoft.com]
