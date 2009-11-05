@@ -8,6 +8,8 @@ Please include a comment with the language/locale name and your name and email a
 
 Also, please pay attention to save your files as UTF-8.
 
+Feel free to correct / refactor current locales.
+
 WebSite:: http://www.lipsiadmin.com
 Api Documentation:: http://api.lipsiadmin.com
 Community:: http://groups.google.com/group/lipsiadmin
